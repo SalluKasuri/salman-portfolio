@@ -1,6 +1,6 @@
 {
   "name": "salman-portfolio",
-"homepage":"http://{github-username}.github.io/{repo-name}"
+"homepage":"http://SalluKasuri.github.io/salman-portfolio"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
